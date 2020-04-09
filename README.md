@@ -1,0 +1,1 @@
+This is a personal collection/diary for practicing the CS Fundamentals 
